@@ -1,4 +1,3 @@
-
 def goodbye():
     print("Goodbye world")
 
